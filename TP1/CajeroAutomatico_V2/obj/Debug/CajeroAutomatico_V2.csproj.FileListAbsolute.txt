@@ -1,0 +1,7 @@
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\bin\Debug\CajeroAutomatico_V2.exe.config
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\bin\Debug\CajeroAutomatico_V2.exe
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\bin\Debug\CajeroAutomatico_V2.pdb
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\obj\Debug\CajeroAutomatico_V2.csproj.AssemblyReference.cache
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\obj\Debug\CajeroAutomatico_V2.csproj.CoreCompileInputs.cache
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\obj\Debug\CajeroAutomatico_V2.exe
+C:\Users\isaac\source\repos\CajeroAutomatico_V2\CajeroAutomatico_V2\obj\Debug\CajeroAutomatico_V2.pdb
